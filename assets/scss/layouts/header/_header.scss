@@ -153,7 +153,6 @@
     text-overflow: ellipsis;
     text-transform: uppercase;
     white-space: nowrap;
-    color: green;
 
     @include breakpoint("small") {
         font-size: $fontSize-logo-medium;
